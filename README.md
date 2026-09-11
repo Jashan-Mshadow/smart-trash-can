@@ -8,7 +8,11 @@ through a reinforced popsicle-stick arm. Walk away and it closes on its own.
 
 ![The bin](media/bin.jpg)
 
-*Video: [`media/demo.mp4`](media/demo.mp4)*
+### Demo
+
+![Demo](media/demo.gif)
+
+<sub>Full-quality video: [`media/demo.mp4`](media/demo.mp4) — GitHub can't play committed MP4s inline, so the GIF above is the preview.</sub>
 
 ---
 
